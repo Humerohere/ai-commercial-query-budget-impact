@@ -1,1 +1,1 @@
-# Welcome to your Snapdev app
+# Welcome to your AI COMMERCIAL QUERY DETECTION AND BUDGET IMPACT app
