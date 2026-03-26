@@ -24,9 +24,8 @@ It combines a **Python backend** (FastAPI/Django) with a **modern frontend** usi
 ## **Tech Stack**
 
 **Frontend:** Vite, TypeScript, Tailwind CSS, JavaScript  
-**Backend:** Python, FastAPI / Django  
-**Database:** PostgreSQL / MySQL / MongoDB  
-**DevOps & Deployment:** Docker, Git, GitHub Pages (frontend), AWS / Firebase  
+**Backend:** Python, FastAPI
+**Database:** MySQL / MongoDB  
 
 ---
 
