@@ -1,6 +1,6 @@
 # Welcome to AI COMMERCIAL QUERY DETECTION AND BUDGET IMPACT App
 
-![App Preview](public/demo.gif)  
+![App Preview](frontend/public/demo.gif)  
 *Animated preview showing how the app works*
 
 ---
